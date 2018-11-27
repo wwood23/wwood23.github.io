@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+<Head>
+	<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<Title>index.html</Title>
+	</Head>
+
+	<BODY>
+	<div style="text-align:center">
+	<h1>NATHAN FIELDER FAN PAGE</h1>
+	<div style= "background-color:orange"
+	<p>Nathan Fielder was born on May 12th, 1983, in Vancouver, British 
+Columbia. He is best known for his marvelously hilarious hit series 
+<I>Nathan For You</I>. His humor is a perfect mix of awkward cringe humor 
+along with dashes of deadpan delivery. His show features a variety of the 
+strangest people <abbr title="Los Angeles">LA</abbr> County has to offer. I 
+think that it is one of 
+the best television shows of the decade</p> 
+</div>
+</div>
+<h3>Best <I>Nathan For You</I> Segments
+	<ul>
+  <li>Gas Rebate</li>
+  <li>Workout Plan</li>
+  <li>Dumb Starbucks</li>
+  <li>Jimmy Kimmel Anecdote</li>
+  <li>Sumo Wrestling Antique Shop</li>
+</ul> 
+
+<table border = 1>
+	<tr><th>Season</th><th> Year </th></tr>
+	<tr><td>1</td><td>2013</td></tr>
+	<tr><td>2</td><td>2014</td></tr>
+	<tr><td>3</td><td>2015</td></tr>
+	<tr><td>4</td><td>2017</td></tr>
+
+</table>
+</h3>
+
+<div style="text-align:center">
+	<div style ="background-color:black"> 
+	<spacer> spacer </spacer></div>
+<H3>Here's Nathan on his way to a wedding! <abbr title ="If you know, you know">iykyk</abbr></h3>
+<img src = "NF_suit.JPG" alt="Nathan looking spiffy">
+</div>
+
+<div style="background-color:red">
+<p>Sadly, Nathan's show is now over. For some reason, he decided that four 
+seasons of the show was enough, and announced that he will no longer do 
+<I>Nathan For You</I> earlier this year.</p></div>
+
+</body>
+
+<div style ="text-align: center">
+
+<a href = "https://www.youtube.com/watch?v=Y4KrdjAPohc"> click on this to see one of Nathans best skits</a>
+
+<p> Nathan ended his show after trying to find the long lost love of one of his favorite guests Francis. The series finale in a large variety of different ways. <hr></hr> Most noticeable, was the fact that this episode was <b>2 hours</b> compared to the normal length of 30 minutes. Secondly, it plays with the idea of Nathan finding love himself </p></div>
+
+</HTML>
